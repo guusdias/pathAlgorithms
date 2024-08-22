@@ -52,11 +52,6 @@ Os problemas a serem resolvidos incluem a navegação em labirintos, o jogo das 
    python src/maze_solver.py
    ```
 
-5. Para executar os testes, utilize:
-   ```bash
-   python -m unittest discover tests
-   ```
-
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do projeto e enviar pull requests.
