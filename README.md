@@ -1,5 +1,14 @@
 # Tarefa de Inteligência Artificial: Resolução de Problemas
 
+### Alunos:
+- Cristian Prochnow _@cristianprochnow_
+- Gustavo Henrique Dias _@guusdias_
+- Lucas Willian Serpa _@Lucaswillians_
+- Marlon de Souza _@Marlon-Souza16_
+- Ryan Gabriel Mazzei Bromati _@tdayko_
+
+
+
 ## Descrição
 
 Esta tarefa tem como objetivo implementar e testar algoritmos clássicos de busca de caminhos e resolução de problemas. Os algoritmos abordados incluem:
@@ -14,14 +23,12 @@ Os problemas a serem resolvidos incluem a navegação em labirintos, o jogo das 
 ## Estrutura do Projeto
 
 - `src/`: Diretório contendo os arquivos de código fonte.
-  - `bfs.py`: Implementação do algoritmo de Busca em Largura.
+  - `bfs-xx.py`: Implementação do algoritmo de Busca em Largura.
   - `dfs.py`: Implementação do algoritmo de Busca em Profundidade.
   - `a_star.py`: Implementação do algoritmo A*.
   - `dijkstra.py`: Implementação do algoritmo de Dijkstra.
   - `maze_solver.py`: Script para resolver labirintos utilizando os algoritmos implementados.
   - `eight_puzzle.py`: Script para resolver o jogo das oito peças utilizando os algoritmos implementados.
-
-- `tests/`: Diretório contendo scripts de testes e exemplos de entrada.
 
 - `README.md`: Este arquivo.
 

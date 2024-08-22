@@ -84,3 +84,12 @@ if solucao:
         print(acao)
 else:
     print("Nenhuma solução encontrada.")
+
+
+'''
+Este código resolve o problema do "mundo do aspirador" em três salas. O objetivo é que o aspirador limpe todas as salas começando de um estado inicial onde ele está em uma sala, e as outras duas podem estar limpas ou sujas. 
+
+O código utiliza uma busca em largura para explorar todas as ações possíveis do aspirador: aspirar a sala atual (se estiver suja) ou mover-se para outra sala. Ele evita que o aspirador revisite os mesmos estados (evitando ciclos) usando uma lista de estados já visitados.
+
+Basicamente, o aspirador começa na sala 1, verifica se está suja e a limpa se necessário. Depois, se move para as outras salas e repete o processo até que todas as salas estejam limpas. O algoritmo armazena o caminho de ações que leva a esse objetivo e imprime a sequência de passos que o aspirador deve seguir. Se todas as salas estão limpas, ele termina, caso contrário, continua até encontrar a solução.
+'''
