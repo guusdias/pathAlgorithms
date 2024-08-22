@@ -1,5 +1,14 @@
 # Tarefa de Inteligência Artificial: Resolução de Problemas
 
+### Alunos:
+- Cristian Prochnow _@cristianprochnow_
+- Gustavo Henrique Dias _@guusdias_
+- Lucas Willian Serpa _@Lucaswillians_
+- Marlon de Souza _@Marlon-Souza16_
+- Ryan Gabriel Mazzei Bromati _@tdayko_
+
+
+
 ## Descrição
 
 Esta tarefa tem como objetivo implementar e testar algoritmos clássicos de busca de caminhos e resolução de problemas. Os algoritmos abordados incluem:
