@@ -69,3 +69,8 @@ start_city = 'Arad'
 goal_city = 'Bucharest'
 path = greedy_search(start_city, goal_city)
 print(f'Caminho encontrado: {" -> ".join(path)}')
+
+
+'''
+O código implementa um algoritmo de busca gulosa para encontrar o caminho mais curto de Arad até Bucharest em um mapa da Romênia, utilizando heurísticas que estimam a distância restante até o destino. O grafo representa as cidades e as distâncias entre elas, enquanto as heurísticas fornecem uma estimativa da proximidade de cada cidade a Bucharest. O algoritmo prioriza a exploração dos estados (cidades) com a menor estimativa de distância (heurística) ao destino, visitando o menor número possível de estados candidatos. A busca continua até que Bucharest seja alcançada, e então o caminho é reconstruído e impresso.
+'''

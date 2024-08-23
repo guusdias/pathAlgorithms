@@ -16,19 +16,13 @@ Esta tarefa tem como objetivo implementar e testar algoritmos clássicos de busc
 - **Busca em Largura (BFS)**
 - **Busca em Profundidade (DFS)**
 - **Busca A***
-- **Algoritmo de Dijkstra**
 
 Os problemas a serem resolvidos incluem a navegação em labirintos, o jogo das oito peças (8-puzzle) e outros problemas de otimização e planejamento.
 
 ## Estrutura do Projeto
 
 - `src/`: Diretório contendo os arquivos de código fonte.
-  - `bfs-xx.py`: Implementação do algoritmo de Busca em Largura.
-  - `dfs.py`: Implementação do algoritmo de Busca em Profundidade.
-  - `a_star.py`: Implementação do algoritmo A*.
-  - `dijkstra.py`: Implementação do algoritmo de Dijkstra.
-  - `maze_solver.py`: Script para resolver labirintos utilizando os algoritmos implementados.
-  - `eight_puzzle.py`: Script para resolver o jogo das oito peças utilizando os algoritmos implementados.
+  - `XX.py`: Exercício com seu respectivo enunciado.
 
 - `README.md`: Este arquivo.
 
