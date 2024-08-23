@@ -17,8 +17,6 @@ Esta tarefa tem como objetivo implementar e testar algoritmos clássicos de busc
 - **Busca em Profundidade (DFS)**
 - **Busca A***
 
-Os problemas a serem resolvidos incluem a navegação em labirintos, o jogo das oito peças (8-puzzle) e outros problemas de otimização e planejamento.
-
 ## Estrutura do Projeto
 
 - `src/`: Diretório contendo os arquivos de código fonte.
