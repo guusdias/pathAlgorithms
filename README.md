@@ -16,7 +16,6 @@ Esta tarefa tem como objetivo implementar e testar algoritmos clássicos de busc
 - **Busca em Largura (BFS)**
 - **Busca em Profundidade (DFS)**
 - **Busca A***
-- **Algoritmo de Dijkstra**
 
 Os problemas a serem resolvidos incluem a navegação em labirintos, o jogo das oito peças (8-puzzle) e outros problemas de otimização e planejamento.
 
