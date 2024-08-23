@@ -78,3 +78,7 @@ start_city = 'Arad'
 goal_city = 'Bucharest'
 path = a_star_search(start_city, goal_city)
 print(f'Caminho encontrado: {" -> ".join(path) if path else "Nenhum caminho encontrado"}')
+
+'''
+O código implementa o algoritmo A* para encontrar o caminho mais curto de Arad até Bucharest em um mapa da Romênia, considerando tanto o custo real de deslocamento entre as cidades quanto uma heurística que estima a distância restante até o destino. O grafo representa as cidades e as distâncias entre elas, enquanto as heurísticas fornecem uma estimativa da proximidade de cada cidade a Bucharest. O algoritmo explora os estados (cidades) com base no menor custo total (custo do caminho percorrido mais a estimativa de distância restante), garantindo assim a busca pelo caminho mais eficiente. Ao alcançar Bucharest, o caminho percorrido é reconstruído e impresso. Se nenhum caminho é encontrado, uma mensagem indicativa é exibida.
+'''
