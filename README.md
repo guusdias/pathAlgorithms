@@ -33,12 +33,12 @@ Esta tarefa tem como objetivo implementar e testar algoritmos clássicos de busc
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/seu-usuario/pathAlgorithms.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd pathAlgorithms
    ```
 
 3. Instale as dependências:
@@ -48,7 +48,7 @@ Esta tarefa tem como objetivo implementar e testar algoritmos clássicos de busc
 
 4. Execute os scripts para testar os algoritmos:
    ```bash
-   python src/maze_solver.py
+   python src/xx.py
    ```
 
 ## Contribuição
