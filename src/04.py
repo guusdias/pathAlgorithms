@@ -6,6 +6,14 @@ devem fazer com que a peça em questão ocupe a posição vazia adjacente à ela
 movimentos devem ser sequencialmente realizados modo que a configuração final
 seja alcançada. Após criar a representação do espaço de estados, crie um algoritmo
 de busca para solucionar o problema.
+
+
+
+O algoritmo percorre todas as combinações possíveis, usando de raciocínio de
+visita para garantir com que o programa não use como base as mesmas comapraçõẽs.
+
+Desse modo, mesmo que haja muitas configurações distintas, ainda sim o
+processo é capaz de verificar os parâmetros na solução.
 '''
 
 
