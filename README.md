@@ -27,7 +27,6 @@ Esta tarefa tem como objetivo implementar e testar algoritmos clássicos de busc
 ## Requisitos
 
 - Python 3.8 ou superior
-- Bibliotecas necessárias: (listadas no `requirements.txt`)
 
 ## Como Executar
 
