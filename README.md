@@ -32,7 +32,7 @@ Esta tarefa tem como objetivo implementar e testar algoritmos clássicos de busc
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/pathAlgorithms.git
+   git clone https://github.com/guusdias/pathAlgorithms.git
    ```
 
 2. Navegue até o diretório do projeto:
